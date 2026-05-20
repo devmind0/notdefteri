@@ -97,7 +97,7 @@ fi
 # Collect all arguments for the java command:
 #   * DEFAULT_JVM_OPTS, JAVA_OPTS, and GRADLE_OPTS environment variables
 #   * All arguments to this script
-DEFAULT_JVM_OPTS='"-Xmx512m" "-Xms64m"'
+DEFAULT_JVM_OPTS='-Xmx512m -Xms64m'
 # Collect all arguments for the java command;
 #   * $DEFAULT_JVM_OPTS, $JAVA_OPTS, $GRADLE_OPTS, and $@ can all contain arguments
 #     that need to be passed to the java command
